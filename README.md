@@ -17,6 +17,7 @@ Scripts
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.2/moment.js"></script>
     <script src="~/src/bootstrap-datetimepicker.js"></script>
+    <script src="~/src/ngBootstrapDateTimePicker.js"></script>
   ```
 
 
