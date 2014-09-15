@@ -86,3 +86,10 @@ Demo
 
 * coming soon
 
+Further angularjs help, articles & other programming stuff at my blog
+-----------------------------------------------------------------------
+
+``` http://itsmebhavin.wordpress.com
+```
+
+
