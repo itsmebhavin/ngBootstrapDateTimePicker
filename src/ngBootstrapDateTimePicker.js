@@ -25,7 +25,8 @@ angular.module('ngBootstrapDateTimePicker', [])
                 language: 'en',
                 pickTime: false
             }).on('changeDate', function (e) {
-                ngModelCtrl.$setViewValue(e.date);
+                console.log(moment(e.target.date).format("MM/DD/YYYY"));
+                ngModelCtrl.$setViewValue(moment(e.target.date).format("MM/DD/YYYY"));
                 scope.$apply();
             });
         }
@@ -41,7 +42,8 @@ angular.module('ngBootstrapDateTimePicker', [])
                 language: 'en',
                 pickTime: true
             }).on('changeDate', function (e) {
-                ngModelCtrl.$setViewValue(e.date);
+                console.log(moment(e.target.date).format("MM/DD/YYYY h:mm:ss a"));
+                ngModelCtrl.$setViewValue(moment(e.target.date).format("MM/DD/YYYY h:mm:ss a"));
                 scope.$apply();
             });
         }
