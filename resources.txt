@@ -1,0 +1,6 @@
+bootstrap-datetimepicker from eonasdan
+        http://eonasdan.github.io/bootstrap-datetimepicker
+
+
+Thanks to bootstrap-datetimepicker team
+-Bhavin Patel
