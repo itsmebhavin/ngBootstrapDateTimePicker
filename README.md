@@ -1,4 +1,4 @@
-angular-bootstrap-datetimepicker
+ngBootstrapDateTimePicker  (Angular version of Bootstrap Datetime picker widget)
 ================================
 
 Here is the angular directive for Twitter's bootstrap-datetimepicker widget. 
