@@ -3,6 +3,10 @@ ngBootstrapDateTimePicker  (Angular version of Bootstrap Datetime picker widget)
 
 Here is the angular directive for Twitter's bootstrap-datetimepicker widget. 
 
+Maintainance (Not further development)
+-------------
+- DEPRICATED
+
 Minimum requirements / dependancies
 -----------------------------------
 
@@ -81,10 +85,7 @@ Options
     daysOfWeekDisabled:[]          //for example use daysOfWeekDisabled: [0,6] to disable weekends 
 ```
 
-Demo
-----
 
-* coming soon
 
 Further angularjs help, articles & other programming stuff at my blog
 -----------------------------------------------------------------------
